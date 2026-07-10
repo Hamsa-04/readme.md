@@ -69,7 +69,5 @@
 - Cyber Security
 - Cloud Computing
 
----
-
 
 - Logistic Regression

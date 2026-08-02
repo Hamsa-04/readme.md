@@ -2,11 +2,9 @@
 
 **Hamsa H V**
 
-MCA student with interests in Artificial Intelligence, Machine Learning, Cyber Security, and Python development.
+MCA student with interests in Artificial Intelligence, Deep learning, Cyber Security, Data Structure,DBMS and Python development.
 
-📄 Resume: ## Resume
+📄 Resume: [Download Resume](resume.pdf)
 
-📄 [View My Resume](resume.pdf)
-
-📧 Email: hvhamsa04@gmail.com
-🔗 LinkedIn: linkedin.com/in/hamsa-hv-50  
+📧 Email: your-email@example.com
+🔗 LinkedIn: your-linkedin-profile

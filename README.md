@@ -6,5 +6,5 @@ MCA student with interests in Artificial Intelligence, Deep learning, Cyber Secu
 
 📄 Resume: [Download Resume](resume.pdf)
 
-📧 Email: your-email@example.com
-🔗 LinkedIn: your-linkedin-profile
+📧 Email: hvhamsa04@gmail.com
+🔗 LinkedIn:linkedin.com/in/hamsa-hv-50  
